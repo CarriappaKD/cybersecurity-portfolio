@@ -31,14 +31,10 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Repositories
 
-- 📝 [`security-notes`]([../security-notes](https://github.com/CarriappaKD/security-notes
-)) — Study notes from the Google Cybersecurity Certificate and CompTIA Security+ prep
-- 🏴 [`ctf-writeups`]([../ctf-writeups](https://github.com/CarriappaKD/ctf-writeups
-)) — Write-ups from TryHackMe rooms and CTF challenges *(coming soon)*
-- 🖥️ [`home-lab`]([../home-lab](https://github.com/CarriappaKD/home-lab
-)) — Documentation of my home SIEM/lab setups *(coming soon)*
-- 🔧 [`scripts`]([../scripts](https://github.com/CarriappaKD/scripts
-)) — Small Python/Bash scripts built while learning automation for security tasks *(coming soon)*
+- 📝 [`security-notes`](https://github.com/CarriappaKD/security-notes) — Study notes from the Google Cybersecurity Certificate and CompTIA Security+ prep
+- 🏴 [`ctf-writeups`](https://github.com/CarriappaKD/ctf-writeups) — Write-ups from TryHackMe rooms and CTF challenges *(coming soon)*
+- 🖥️ [`home-lab`]((https://github.com/CarriappaKD/home-lab) — Documentation of my home SIEM/lab setups *(coming soon)*
+- 🔧 [`scripts`](https://github.com/CarriappaKD/scripts) — Small Python/Bash scripts built while learning automation for security tasks *(coming soon)*
 
 ## Skills (Building)
 
