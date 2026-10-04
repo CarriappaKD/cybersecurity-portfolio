@@ -1,4 +1,4 @@
-# Hi, I'm CARRIAPPA K D 👋
+# Hi, I'm Carriappa K D 👋
 
 Aspiring Cybersecurity professional transitioning from a background in Electrical & Electronics Engineering, sports data analysis, and freelance media work. Currently building hands-on security skills through structured coursework, labs, and self-directed projects.
 
@@ -14,14 +14,14 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Current Progress
 
-🎓 **Google Cybersecurity Professional Certificate** — 2 of 8 courses complete
+🎓 **Google Cybersecurity Professional Certificate** — 3 of 8 courses complete
 
 | Course | Status |
 |---|---|
 | 1. Foundations of Cybersecurity | ✅ Complete |
 | 2. Play It Safe: Manage Security Risks | ✅ Complete |
-| 3. Connect and Protect: Networks and Network Security | 🔄 In Progress |
-| 4. Tools of the Trade: Linux and SQL | ⬜ Not Started |
+| 3. Connect and Protect: Networks and Network Security | ✅ Complete |
+| 4. Tools of the Trade: Linux and SQL | 🔄 In Progress |
 | 5. Assets, Threats, and Vulnerabilities | ⬜ Not Started |
 | 6. Sound the Alarm: Detection and Response | ⬜ Not Started |
 | 7. Automate Cybersecurity Tasks with Python | ⬜ Not Started |
@@ -45,8 +45,8 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/carriappa-k-d
+- LinkedIn: [www.linkedin.com/in/carriappa-k-d](https://www.linkedin.com/in/carriappa-k-d)
 - Email: carriappakd@gmail.com
 
 ---
-*This portfolio is actively updated as I progress through my cybersecurity learning path. Last updated: September 2026*
+*This portfolio is actively updated as I progress through my cybersecurity learning path. Last updated: October 2026*
