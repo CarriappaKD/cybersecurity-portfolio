@@ -31,7 +31,7 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Repositories
 
-- 📝 [`security-notes`](https://github.com/CarriappaKD/security-notes) — Study notes from the Google Cybersecurity Certificate and CompTIA Security+ prep
+- 📝 [`security-notes`](https://github.com/CarriappaKD/security-notes) — Study notes from the Google Cybersecurity Professional Certificate
 - 🛡️ [`security-projects`](https://github.com/CarriappaKD/security-projects) — Applied project work from course activities (security audits, incident reports, etc.)
 - 🏴 [`ctf-writeups`](https://github.com/CarriappaKD/ctf-writeups) — Write-ups from TryHackMe rooms and CTF challenges *(coming soon)*
 - 🖥️ [`home-lab`](https://github.com/CarriappaKD/home-lab) — Documentation of my home SIEM/lab setups *(coming soon)*
