@@ -14,15 +14,15 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Current Progress
 
-🎓 **Google Cybersecurity Professional Certificate** — 3 of 8 courses complete
+🎓 **Google Cybersecurity Professional Certificate** — 4 of 8 courses complete
 
 | Course | Status |
 |---|---|
 | 1. Foundations of Cybersecurity | ✅ Complete |
 | 2. Play It Safe: Manage Security Risks | ✅ Complete |
 | 3. Connect and Protect: Networks and Network Security | ✅ Complete |
-| 4. Tools of the Trade: Linux and SQL | 🔄 In Progress |
-| 5. Assets, Threats, and Vulnerabilities | ⬜ Not Started |
+| 4. Tools of the Trade: Linux and SQL | ✅ Complete |
+| 5. Assets, Threats, and Vulnerabilities | 🔄 In Progress |
 | 6. Sound the Alarm: Detection and Response | ⬜ Not Started |
 | 7. Automate Cybersecurity Tasks with Python | ⬜ Not Started |
 | 8. Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Not Started |
