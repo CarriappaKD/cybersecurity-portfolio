@@ -27,7 +27,7 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 | 7. Automate Cybersecurity Tasks with Python | ⬜ Not Started |
 | 8. Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Not Started |
 
-📌 **Next up:** CompTIA Security+ (SY0-701) self-study, home lab setup, TryHackMe SOC Level 1 path
+📌 **Next up:** Finishing the Google Cybersecurity Certificate, then the TryHackMe SOC Level 1 (SAL1) path for hands-on practice
 
 ## Repositories
 
@@ -39,9 +39,9 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Skills (Building)
 
-**Currently learning:** Networking fundamentals, Linux, security frameworks (CIA Triad, NIST), risk management basics
+**Currently learning:** Networking fundamentals, Linux, SQL, security frameworks (CIA Triad, NIST), risk management basics
 
-**Planned:** Python scripting, SIEM tools (Splunk/Security Onion), incident detection & response, CompTIA Security+ certified knowledge
+**Planned:** Python scripting, SIEM tools & log analysis, phishing/threat intel, digital forensics & incident response fundamentals (via TryHackMe SOC Level 1)
 
 ## Connect
 
