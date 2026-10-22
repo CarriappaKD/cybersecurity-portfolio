@@ -22,8 +22,8 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 | 2. Play It Safe: Manage Security Risks | ✅ Complete |
 | 3. Connect and Protect: Networks and Network Security | ✅ Complete |
 | 4. Tools of the Trade: Linux and SQL | ✅ Complete |
-| 5. Assets, Threats, and Vulnerabilities | 🔄 In Progress |
-| 6. Sound the Alarm: Detection and Response | ⬜ Not Started |
+| 5. Assets, Threats, and Vulnerabilities | ✅ Complete |
+| 6. Sound the Alarm: Detection and Response | 🔄 In Progress |
 | 7. Automate Cybersecurity Tasks with Python | ⬜ Not Started |
 | 8. Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Not Started |
 
