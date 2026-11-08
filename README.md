@@ -23,8 +23,8 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 | 3. Connect and Protect: Networks and Network Security | ✅ Complete |
 | 4. Tools of the Trade: Linux and SQL | ✅ Complete |
 | 5. Assets, Threats, and Vulnerabilities | ✅ Complete |
-| 6. Sound the Alarm: Detection and Response | 🔄 In Progress |
-| 7. Automate Cybersecurity Tasks with Python | ⬜ Not Started |
+| 6. Sound the Alarm: Detection and Response | ✅ Complete |
+| 7. Automate Cybersecurity Tasks with Python | 🔄 In Progress |
 | 8. Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Not Started |
 
 📌 **Next up:** Finishing the Google Cybersecurity Certificate, then the TryHackMe SOC Level 1 (SAL1) path for hands-on practice
