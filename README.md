@@ -14,7 +14,7 @@ Driven by a deep fascination with solving complex puzzles and uncovering the "ho
 
 ## Current Progress
 
-🎓 **Google Cybersecurity Professional Certificate** — 4 of 8 courses complete
+🎓 **Google Cybersecurity Professional Certificate** — 6 of 8 courses complete
 
 | Course | Status |
 |---|---|
